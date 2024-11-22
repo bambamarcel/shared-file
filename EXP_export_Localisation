@@ -1,0 +1,7 @@
+"Localisation_FK_root","Localisation__id","Localisation_code","Localisation_name","Localisation_typelocalisation_code","Localisation_typelocalisation_name","Localisation__id1","Localisation_timestamp","FK_root_array_Localisation"
+1,"3c1c4b15d651479d86d2ec2e6d5ce6f7","7520PH","20 rue des Petits Hotels
+75010 PARIS","LD","Localisation Déclarée","674078d66bf4f01b7f0aab64",1732278486199,"1"
+1,"c2ee03dbb95b4d6b8747b642768ec877","7572MF_B00"," 7572MF_B00","LT","Localisation Théorique","674078d66bf4f01b7f0aab64",1732278486199,"1"
+2,"3c1c4b15d651479d86d2ec2e6d5ce6f7","7520PH","20 rue des Petits Hotels
+75010 PARIS","LD","Localisation Déclarée","674078e96bf4f01b7f0aacb6",1732278505165,"1"
+2,"c2ee03dbb95b4d6b8747b642768ec877","7572MF_B00"," 7572MF_B00","LT","Localisation Théorique","674078e96bf4f01b7f0aacb6",1732278505165,"1"

@@ -1,0 +1,5 @@
+"Structure_FK_root","Structure__id","Structure_datedaffectation","Structure_datedefinaffectation","Structure_code","Structure_name","Structure_structure_code","Structure_structure_name","Structure__id1","Structure_timestamp","FK_root_array_Structure"
+1,"36c4e31b3f9b40ad8bf4b6e646195770","2024-11-22",,"AA","Affectation Administrative","000036","000036","674078d66bf4f01b7f0aab64",1732278486199,"1"
+1,"7f1c9ae19c6f46de9172336c0a7318fe","2024-11-01","2024-11-15","AF","Affectation fonctionnelle","000001","000001","674078d66bf4f01b7f0aab64",1732278486199,"1"
+2,"36c4e31b3f9b40ad8bf4b6e646195770","2024-11-22",,"AA","Affectation Administrative","000036","000036","674078e96bf4f01b7f0aacb6",1732278505165,"1"
+2,"7f1c9ae19c6f46de9172336c0a7318fe","2024-11-01","2024-11-15","AF","Affectation fonctionnelle","000001","000001","674078e96bf4f01b7f0aacb6",1732278505165,"1"

@@ -1,0 +1,5 @@
+"Telephone_FK_root","Telephone__id","Telephone_numerodetelephone","Telephone_code","Telephone_name","Telephone__id1","Telephone_timestamp","FK_root_array_Telephone"
+1,"8f5e2a891c8448ce8686105495442583","0154789632","NC","Numéro Pro CDC","674078d66bf4f01b7f0aab64",1732278486199,"1"
+1,"7d0132403e8d4afa8cb67fd71c440f34","0718507836","NP","Numéro Personnel","674078d66bf4f01b7f0aab64",1732278486199,"1"
+2,"8f5e2a891c8448ce8686105495442583","0154789632","NC","Numéro Pro CDC","674078e96bf4f01b7f0aacb6",1732278505165,"1"
+2,"7d0132403e8d4afa8cb67fd71c440f34","0718507836","NP","Numéro Personnel","674078e96bf4f01b7f0aacb6",1732278505165,"1"

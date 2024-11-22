@@ -1,0 +1,5 @@
+"Segmentation_FK_root","Segmentation__id","Segmentation_code","Segmentation_name","Segmentation_typedesegmentation_code","Segmentation_typedesegmentation_name","Segmentation__id1","Segmentation_timestamp","FK_root_array_Segmentation"
+1,"0d106b274b384dfeb3e0c2967088f8dd","PU","Public","ST","Statut","674078d66bf4f01b7f0aab64",1732278486199,"1"
+1,"a49630c3b11d466188418ae0bcba399c","EF","En fonction EP","AT","Activité","674078d66bf4f01b7f0aab64",1732278486199,"1"
+2,"0d106b274b384dfeb3e0c2967088f8dd","PU","Public","ST","Statut","674078e96bf4f01b7f0aacb6",1732278505165,"1"
+2,"a49630c3b11d466188418ae0bcba399c","EF","En fonction EP","AT","Activité","674078e96bf4f01b7f0aacb6",1732278505165,"1"

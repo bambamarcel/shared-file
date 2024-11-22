@@ -1,0 +1,5 @@
+"TypeCollab_FK_root","TypeCollab__id","TypeCollab_datedebuttypecollaborateur","TypeCollab_datefintypecollaborateur","TypeCollab_code","TypeCollab_name","TypeCollab__id1","TypeCollab_timestamp","FK_root_array_TypeCollab"
+1,"93f443e4658d40f3be6858a6f53bdffd","2024-11-07","2024-11-20","EX","Externe","674078d66bf4f01b7f0aab64",1732278486199,"1"
+1,"d762408582664a1e845ddfb909532f36","2024-11-22",,"IN","Interne","674078d66bf4f01b7f0aab64",1732278486199,"1"
+2,"93f443e4658d40f3be6858a6f53bdffd","2024-11-07","2024-11-20","EX","Externe","674078e96bf4f01b7f0aacb6",1732278505165,"1"
+2,"d762408582664a1e845ddfb909532f36","2024-11-22",,"IN","Interne","674078e96bf4f01b7f0aacb6",1732278505165,"1"
