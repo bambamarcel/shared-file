@@ -1,0 +1,2 @@
+data_input_json
+{"dateCreation1": "2260","dateMiseAJour": "21146","F_IDCollaborateur": {"idCollaborateur":"4BnBS7hX9G1oDam"},"F_InformationCollaborateur": {"civilite": "6214","codePays": "","codePostal":"pciBiRB3","dateArriveeDansEP": "","dateCreation2": "1667","dateDebutActivite": "20332","dateDeNaissance":"31985","dateFinActivite": "","nomDeFamille": "e0FuqcEr","nomDUsage": "LGBkss9QbBN3","prenom":"rQHGuXwdovv","sexe": "1Mss7uRPpRBX9z","ville": ""}}
